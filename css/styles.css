@@ -1,0 +1,57 @@
+/** {
+	outline: 1px solid red !important;
+}*/
+
+/* Default values can be put in body, can be overridden later */
+
+body {
+	font-family: "Lato", sans-serif;
+	color: #747704;
+	font-weight: 300;
+	margin-top: 70px;
+}
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-big {
+	font-size: 32px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.title-super {
+	font-size: 48px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+a {
+	color: #747704;
+}
+
+hr {
+	border: none;
+	height: 4px;
+	color: #bcbbbb;
+}
+
+footer {
+	background: #333;
+	color: #9d9d9d;
+	font-size: 11px;
+}
+
